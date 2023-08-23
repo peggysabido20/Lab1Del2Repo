@@ -18,7 +18,7 @@ public class Program
 
             Console.WriteLine("You are a coward " + sName);
         }
-        else
+        else if (sAnswer.ToLower() == "yes")
         {
             Random rnd = new Random();
             int iCoin = 0;
@@ -26,10 +26,10 @@ public class Program
             string sAnswerCoin = "";
             for (int j = 0; j < 5; j++)
             {
-                iCoin = rnd.Next(10);
+                iCoin = rnd.Next(0, 2);
                 Console.Write("Heads or Tails? ");
                 sAnswerCoin = Console.ReadLine();
-                if ((iCoin % 2) == 0)
+                if (iCoin == 0)
                 {
                     if (sAnswerCoin.ToLower() == "heads")
                     {
@@ -65,7 +65,10 @@ public class Program
             Console.WriteLine("Thank you " + sName + ". You got a score of " + iCount + "!");
 
         }
-
+        else 
+            {
+                Console.WriteLine("Enter Yes/No.");
+            }
 
 
     }
