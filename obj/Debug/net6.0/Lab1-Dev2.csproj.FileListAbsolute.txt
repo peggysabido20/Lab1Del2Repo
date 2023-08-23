@@ -1,0 +1,14 @@
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.AssemblyInfoInputs.cache
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.AssemblyInfo.cs
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.csproj.CoreCompileInputs.cache
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\bin\Debug\net6.0\Lab1-Dev2.exe
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\bin\Debug\net6.0\Lab1-Dev2.deps.json
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\bin\Debug\net6.0\Lab1-Dev2.runtimeconfig.json
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\bin\Debug\net6.0\Lab1-Dev2.dll
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\bin\Debug\net6.0\Lab1-Dev2.pdb
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.dll
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\refint\Lab1-Dev2.dll
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.pdb
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\Lab1-Dev2.genruntimeconfig.cache
+C:\Users\peggy\source\repos\Lab1-Dev2\Lab1-Dev2\obj\Debug\net6.0\ref\Lab1-Dev2.dll
